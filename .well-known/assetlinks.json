@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.aviraj25_mausam.twa",
+        "sha256_cert_fingerprints": ["42:D1:0A:07:49:F7:B3:82:4D:35:42:F3:2D:0A:2D:61:5E:B5:04:85:B6:EC:BC:6F:90:A6:CA:55:BE:42:BF:57"]
+      }
+    }]
